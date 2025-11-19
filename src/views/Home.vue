@@ -5,7 +5,7 @@ import Button from "primevue/button";
 import Card from "primevue/card";
 
 import TestCircle from "../assets/TestCircle.svg";
-import Header from '../Components/header.vue';
+import Header from '../Components/Header.vue';
 
 
 
